@@ -21,3 +21,17 @@ A simple and interactive quiz application built using **HTML**, **CSS**, and **J
 - **JavaScript** – Logic and interactivity  
 
 ---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+
+---
+
+## 🔍 Preview
+
+![Screenshot 2025-06-20 151443](https://github.com/user-attachments/assets/6df0539d-71ca-49a3-b813-a3debddf0bf5) 
+
+![Screenshot 2025-06-20 151641](https://github.com/user-attachments/assets/50e1d407-c198-4873-9301-24d03e0e6057)
+
+
